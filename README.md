@@ -12,7 +12,7 @@ BTW, I could have asked you to invert a binary tree, but I didn't wanted to flex
 
 >*"Good Relationship, like wine, takes time."* - someone on internet
 
-Yeah okay, but first, you need to start with a relationship! Start at [Tindev](https://tindev-1.web.app/).
+Yeah okay, but first, you need to start with a relationship! Start at Tindev.
 
 *****IF you are a DEV, you should be on TINDEV !*****
 
