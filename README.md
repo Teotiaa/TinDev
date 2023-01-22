@@ -1,5 +1,4 @@
 # Tindev - Dating For DEVs, by a Dev.
-Hosted at https://tindev-1.web.app/
 
 ## Regular dating apps?...Naah
 You are a *DEVELOPER* who changes the world, one deployemnt at a time! You need something **exclusive**, not the one which every ordinary human looking ape uses.
